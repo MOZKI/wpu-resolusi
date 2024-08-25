@@ -1,0 +1,4 @@
+resolusi :
+- bisa buat responsive website
+- bisa menguasai javascript
+- bisa menggunakan frameworks yang tersedia
